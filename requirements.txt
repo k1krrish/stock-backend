@@ -4,4 +4,4 @@ yfinance
 numpy
 pydantic
 scikit-learn
-tensorflow
+
